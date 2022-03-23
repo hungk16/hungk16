@@ -5,8 +5,9 @@
 - 📫 Reach me by email: hunglek16@gmail.com
 
  My most notable projects are:
-- [React-cart](https://wizardly-tereshkova-4d86d3.netlify.app/)
 - [Responsive Coffee](https://heuristic-feynman-c3b08d.netlify.app/#)
+- [Food Landing page](https://splendid-chebakia-6840c0.netlify.app)
+- [React-cart](https://wizardly-tereshkova-4d86d3.netlify.app/)
 
 <div align="center">
   <a href="https://github.com/hungk16">

@@ -21,7 +21,7 @@
   <img align="center" alt="hungk16-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="hungk16-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="hungk16-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="hungk16-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
+  <img align="center" alt="hungk16-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   <img align="right" alt="hungk16-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/99/d7/3e/99d73e4a6918d75164f1f978ca91b453.jpg?width=676&height=676">
 </div>
 

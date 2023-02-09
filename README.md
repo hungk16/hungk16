@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hung
-- 👀 I’m interested in Reactjs and Django
+- 👀 I’m interested in Reactjs
 - 🌱 I’m currently studying typescript
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me by email: hunglek16@gmail.com

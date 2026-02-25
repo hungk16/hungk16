@@ -9,11 +9,7 @@
 - [Food Landing page](https://splendid-chebakia-6840c0.netlify.app)
 - [React-cart](https://wizardly-tereshkova-4d86d3.netlify.app/)
 
-<div align="center">
-  <a href="https://github.com/hungk16">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hungk16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungk16&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="hungk16-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
